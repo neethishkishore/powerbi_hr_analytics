@@ -6,7 +6,7 @@
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMzc2MmM2MjEtNmNmYi00MzM4LWFkYTgtZWIzOGQ4NzI3ZjhjIiwidCI6ImMyOTMyNDU1LWIzZTctNDJhYi1hY2ExLWZhNTNmMjcxN2EyNSJ9">Link to Interactive Dashboard</a>
 </p>
 
-<img src="dashboard_hr_analysis.png">
+<img src="dashboard_hr_analytics.png">
 
 In this impactful HR analytics project, I utilized Power BI to conduct a thorough analysis of employee attribution within the organization. The analysis focused on key factors such as education, salary slab, age, gender, years at the company, and job role, providing valuable insights for strategic workforce planning.
 
